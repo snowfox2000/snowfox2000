@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @snowfox2000
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# readme
 
-<!---
-snowfox2000/snowfox2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+las presentes so pruebas de aprendizaje sin fines de lucro ni daño.
+
+## Índice
+
+- [Instalación](#instalación)
+- [Uso](#practica)
+- [Contribuciones](#contribuciones)
+- [Licencia](#licencia)
+
+## Instalación
+
+Instrucciones paso a paso para instalar y configurar el proyecto.
+
+```bash
+# Ejemplo:
+git clone https://github.com/usuario/proyecto.git
+cd proyecto
+npm install
